@@ -144,29 +144,6 @@ class HariManiesh:
 
 ---
 
-## 💼 Professional Experience
-
-### 🛡️ Cybersecurity & Digital Forensics Specialist
-**Boredmonk Cyber Security | Acmegrade Wipro Technology | InTrainz Innovation**
-*June 2025 • April 2025 • November 2025*
-* Mastered digital evidence acquisition techniques using **FTK Imager** and **Autopsy**.
-* Conducted data recovery, log analysis, malware analysis, OSINT research, and dark web investigation protocols.
-* Applied incident response techniques and enterprise network security practices (firewall management, threat detection, routing protocols).
-
-### 🧪 Software Testing Intern
-**Xortican (Freelancers' League)** — *Coimbatore, India*
-*August 2024*
-* Executed manual and automated testing across multi-platform web applications.
-* Applied industry-standard QA methodologies, defect tracking, and performance testing frameworks to improve application stability.
-
-### 🎨 UI/UX Design & Data Analytics Specialist
-**Maiyyam**
-*December 2024 – January 2025*
-* Designed mobile and e-commerce UI/UX prototypes in **Figma** using human-centered design thinking principles.
-* Developed interactive **Tableau** dashboards for enterprise business intelligence and data visualization analysis.
-
----
-
 ## 📜 Certifications
 
 <div align="left">
