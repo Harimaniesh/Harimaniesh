@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2E2E&background=00000000&center=true&vCenter=true&width=650&height=50&lines=Welcome+to+my+GitHub+%F0%9F%90%8D;Cybersecurity+Enthusiast+%F0%9F%9F%A5;Digital+Forensics+%26+Incident+Response+%F0%9F%94%8E;Full+Stack+Developer+%F0%9F%92%BB;Blockchain+%26+Web3+Explorer+%E2%9B%93%EF%B8%8F;Building+Secure+%26+Intelligent+Systems+%F0%9F%9A%80" alt="Hari Maniesh Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF2E2E&background=00000000&center=true&vCenter=true&width=650&height=50&lines=HI+I'm+Hari Maniesh+%F0%9F%90%8D;Cybersecurity+Enthusiast+%F0%9F%9F%A5;Digital+Forensics+%26+Incident+Response+%F0%9F%94%8E;Full+Stack+Developer+%F0%9F%92%BB;Blockchain+%26+Web3+Explorer+%E2%9B%93%EF%B8%8F;Building+Secure+%26+Intelligent+Systems+%F0%9F%9A%80" alt="Hari Maniesh Typing Header" />
 </div>
 
 <div align="center">
